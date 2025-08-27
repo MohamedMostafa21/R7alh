@@ -1,0 +1,684 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\models\\tourguideapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:models\\tourguideapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\tourguidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\tourguidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\chatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\chatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\dto\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:dto\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\seeding\\seedhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:seeding\\seedhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\wwwroot\\uploads\\profiles\\9b38ec4d-cd21-4788-9e2e-df1baa365920.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:wwwroot\\uploads\\profiles\\9b38ec4d-cd21-4788-9e2e-df1baa365920.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\wwwroot\\uploads\\profiles\\473909d8-6676-4430-931e-27321fd9c8a5.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:wwwroot\\uploads\\profiles\\473909d8-6676-4430-931e-27321fd9c8a5.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\seeding\\seedrestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:seeding\\seedrestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\seeding\\seedplaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:seeding\\seedplaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\r7alaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:r7alaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\r7alaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:r7alaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|c:\\users\\gnsh\\desktop\\gradtuion project\\old\\r7alaapi-main\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E22DFF-8441-4E95-AC4C-D74ACA8ECD52}|R7alaAPI.csproj|solutionrelative:models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T10:30:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Helpers\\UserHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\UserHelper.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Helpers\\UserHelper.cs",
+              "RelativeToolTip": "Helpers\\UserHelper.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:27:14.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAqwNYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:03:24.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAB0AAAAANDMzMzPzvzEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:53:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T17:36:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecommendationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\RecommendationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecommendationsController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\RecommendationsController.cs",
+              "RelativeToolTip": "Controllers\\RecommendationsController.cs",
+              "ViewState": "AgIAAAUCAAAAAAAAAAAAAA4CAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:43:43.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\ChatDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ChatDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\ChatDto.cs",
+              "RelativeToolTip": "DTO\\ChatDto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:55:38.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "Controllers\\ChatsController.cs",
+              "ViewState": "AgIAAEkAAAAAzMzMzMwuwNAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:54:18.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourGuideApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\TourGuideApplication.cs",
+              "RelativeDocumentMoniker": "Models\\TourGuideApplication.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\TourGuideApplication.cs",
+              "RelativeToolTip": "Models\\TourGuideApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:05:46.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:07:14.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\FavoriteDto.cs",
+              "RelativeDocumentMoniker": "DTO\\FavoriteDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\FavoriteDto.cs",
+              "RelativeToolTip": "DTO\\FavoriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:40:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Favorite.cs",
+              "RelativeToolTip": "Models\\Favorite.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:40:26.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TourGuidesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\TourGuidesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TourGuidesController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\TourGuidesController.cs",
+              "RelativeToolTip": "Controllers\\TourGuidesController.cs",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAuwKwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:29:20.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:07:34.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlacesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\PlacesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlacesController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\PlacesController.cs",
+              "RelativeToolTip": "Controllers\\PlacesController.cs",
+              "ViewState": "AgIAANIAAAAAZmZmZmYiwOIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:12:53.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\ActivitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActivitiesController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\ActivitiesController.cs",
+              "RelativeToolTip": "Controllers\\ActivitiesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:07:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:11:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:49:56.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\RoomDto.cs",
+              "RelativeDocumentMoniker": "DTO\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\RoomDto.cs",
+              "RelativeToolTip": "DTO\\RoomDto.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA1wEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:50:45.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActivityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\ActivityDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ActivityDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\ActivityDto.cs",
+              "RelativeToolTip": "DTO\\ActivityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:52:27.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MealsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\MealsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MealsController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\MealsController.cs",
+              "RelativeToolTip": "Controllers\\MealsController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:51:12.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MealDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\MealDto.cs",
+              "RelativeDocumentMoniker": "DTO\\MealDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\MealDto.cs",
+              "RelativeToolTip": "DTO\\MealDto.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:51:28.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\HotelDto.cs",
+              "RelativeDocumentMoniker": "DTO\\HotelDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\HotelDto.cs",
+              "RelativeToolTip": "DTO\\HotelDto.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:11:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "Controllers\\FavoritesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:46:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Hotel.cs",
+              "RelativeToolTip": "Models\\Hotel.cs",
+              "ViewState": "AgIAAAEAAAAgNDMzMzMLwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:22:40.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantsController.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAADwvxQBAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:13:02.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RestaurantDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\RestaurantDto.cs",
+              "RelativeDocumentMoniker": "DTO\\RestaurantDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\RestaurantDto.cs",
+              "RelativeToolTip": "DTO\\RestaurantDto.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwGoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:12:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\PlaceDto.cs",
+              "RelativeDocumentMoniker": "DTO\\PlaceDto.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\DTO\\PlaceDto.cs",
+              "RelativeToolTip": "DTO\\PlaceDto.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAxwHcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:11:27.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "Models\\Chat.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Chat.cs",
+              "RelativeToolTip": "Models\\Chat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:15:31.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:15:16.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SeedRestaurants.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Seeding\\SeedRestaurants.cs",
+              "RelativeDocumentMoniker": "Seeding\\SeedRestaurants.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Seeding\\SeedRestaurants.cs",
+              "RelativeToolTip": "Seeding\\SeedRestaurants.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswNoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:26:10.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SeedHotels.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Seeding\\SeedHotels.cs",
+              "RelativeDocumentMoniker": "Seeding\\SeedHotels.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Seeding\\SeedHotels.cs",
+              "RelativeToolTip": "Seeding\\SeedHotels.cs",
+              "ViewState": "AgIAAEcAAAAAiJmZmZkBwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:30:12.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "473909d8-6676-4430-931e-27321fd9c8a5.jpg - Bitmap [1632x1544, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\wwwroot\\Uploads\\profiles\\473909d8-6676-4430-931e-27321fd9c8a5.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Uploads\\profiles\\473909d8-6676-4430-931e-27321fd9c8a5.jpg",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\wwwroot\\Uploads\\profiles\\473909d8-6676-4430-931e-27321fd9c8a5.jpg - Bitmap [1632x1544, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Uploads\\profiles\\473909d8-6676-4430-931e-27321fd9c8a5.jpg - Bitmap [1632x1544, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-27T18:51:22.786Z",
+              "EditorCaption": " - Bitmap [1632x1544, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "9b38ec4d-cd21-4788-9e2e-df1baa365920.jpg - Bitmap [1632x1544, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\wwwroot\\Uploads\\profiles\\9b38ec4d-cd21-4788-9e2e-df1baa365920.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Uploads\\profiles\\9b38ec4d-cd21-4788-9e2e-df1baa365920.jpg",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\wwwroot\\Uploads\\profiles\\9b38ec4d-cd21-4788-9e2e-df1baa365920.jpg - Bitmap [1632x1544, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Uploads\\profiles\\9b38ec4d-cd21-4788-9e2e-df1baa365920.jpg - Bitmap [1632x1544, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-27T19:00:44.409Z",
+              "EditorCaption": " - Bitmap [1632x1544, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAQwLQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:22:09.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:38:09.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SeedPlaces.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Seeding\\SeedPlaces.cs",
+              "RelativeDocumentMoniker": "Seeding\\SeedPlaces.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Seeding\\SeedPlaces.cs",
+              "RelativeToolTip": "Seeding\\SeedPlaces.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAuwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:38:27.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "R7alaAPI",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\R7alaAPI.csproj",
+              "RelativeDocumentMoniker": "R7alaAPI.csproj",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\R7alaAPI.csproj",
+              "RelativeToolTip": "R7alaAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T17:31:46.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T17:32:14.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "R7alaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\R7alaAPI.csproj",
+              "RelativeDocumentMoniker": "R7alaAPI.csproj",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\R7alaAPI.csproj",
+              "RelativeToolTip": "R7alaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T17:32:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "Models\\Place.cs",
+              "ToolTip": "C:\\Users\\Gnsh\\Desktop\\Gradtuion Project\\Old\\R7alaAPI-main\\Models\\Place.cs",
+              "RelativeToolTip": "Models\\Place.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAzwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:11:02.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
