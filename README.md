@@ -96,7 +96,7 @@ Follow coding standards and include clear descriptions.
 
 ---
 
-## 👤 Developer
+## 👤 Developers
 
 - **Mohamed Mostafa**  
   Backend Developer | Assiut University Graduate  
