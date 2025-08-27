@@ -105,16 +105,16 @@ Follow coding standards and include clear descriptions.
   Frontend Developer | Assiut University Graduate  
   [LinkedIn](https://www.linkedin.com/in/nadia-mostafa-369140250/)
 - **Huda Mawood**  
-  Frontend Developer | Assiut University Graduate  
+  AI Developer | Assiut University Graduate  
   [LinkedIn](https://www.linkedin.com/in/huda-mawood-17a644270/)
 - **Martina Mamdouh**  
   AI Developer | Assiut University Graduate  
   [LinkedIn](https://www.linkedin.com/in/martina-mamdouh-fakher/)
 - **Ahmed Essam**  
-  AI Developer | Assiut University Graduate  
+  Flutter Developer | Assiut University Graduate  
   [LinkedIn](https://www.linkedin.com/in/ahmed-essam-64192a223/)
 - **Shahd Hesham**  
-  AI Developer | Assiut University Graduate  
+  Flutter Developer | Assiut University Graduate  
   [LinkedIn](https://www.linkedin.com/in/shahd-hesham-5a4397221/)
 
 
