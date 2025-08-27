@@ -99,7 +99,7 @@ Follow coding standards and include clear descriptions.
 ## 👤 Developer
 
 - **Mohamed Mostafa**  
-  Full-Stack & AI Developer | Assiut University Graduate  
+  Backend Developer | Assiut University Graduate  
   [LinkedIn](https://www.linkedin.com/in/mohamedmostafa21/)
 
 ---
