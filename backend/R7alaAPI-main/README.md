@@ -1,7 +1,6 @@
 # R7alah Backend - Travel Platform API
 
-
-The R7alah Backend is the core API for the R7alah travel platform, developed as a graduation project at Assiut University. Built entirely by Mohamed Mostafa using .NET Core and C#, this robust and scalable API powers personalized recommendations for restaurants, hotels, tourist attractions, and tour guide management, integrating seamlessly with a Flask-based machine learning engine. The backend serves as the backbone for the R7alah Flutter mobile app and React front-end website, enabling a seamless and user-centric travel planning experience.
+The R7alah Backend is the core API for **R7alah**, a smart tourism platform developed as a graduation project at Assiut University. Built entirely by Mohamed Mostafa using .NET Core 8.0 and C#, this robust and scalable API powers personalized recommendations, booking services, tour guide management, and real-time updates for restaurants, hotels, and tourist attractions in Egypt, with plans for global expansion. Integrated with a Flask-based machine learning engine, the backend serves as the backbone for the R7alah Flutter mobile app and React front-end website, delivering a seamless, user-centric travel planning experience.
 
 ## Table of Contents
 - [Features](#features)
@@ -15,15 +14,18 @@ The R7alah Backend is the core API for the R7alah travel platform, developed as 
 - [License](#license)
 
 ## Features
-The R7alah Backend provides a comprehensive set of features to support the travel recommendation platform:
+The R7alah Backend provides a comprehensive set of features to enhance the travel experience, addressing common challenges like planning, budgeting, and accessing reliable information:
 
-- **Intelligent Recommendations**: Integrates with a Flask-based machine learning engine to deliver personalized suggestions for restaurants, hotels, and tourist attractions based on user preferences and favorited items stored in the database.
-- **User Favorites Management**: Handles user interactions with favorited restaurants, hotels, and places via endpoints like `POST /api/recommendations/restaurants`, enabling tailored suggestions.
-- **Tour Guide Management System**: Supports tour guide application submissions, with admin endpoints for approval (`POST /api/admin/tourguide-applications/{id}/approve`), rejection (`POST /api/admin/tourguide-applications/{id}/reject`), and revocation (`POST /api/admin/tourguides/{id}/revoke`) to ensure quality and trust.
-- **Secure Authentication**: Utilizes ASP.NET Identity with JWT for secure access to protected endpoints, supporting both user and admin roles.
+- **Personalized Recommendations**: Integrates with a Flask-based machine learning engine to deliver tailored suggestions for restaurants, hotels, and tourist attractions, leveraging user preferences and favorited items stored in the database (`POST /api/recommendations/recommend`).
+- **Destination and Attraction Management**: Manages detailed data for destinations, historical sites, hotels, and restaurants, providing comprehensive information, images, and reviews to help users explore iconic landmarks and cultural attractions (`GET /api/recommendations/restaurants`, `GET /api/recommendations/hotels`, `GET /api/recommendations/places`).
+- **User Reviews and Ratings**: Enables travelers to submit reviews and ratings for destinations, services, and accommodations, stored and retrieved via endpoints like `POST /api/reviews`, to support informed decision-making.
+- **Accommodation and Transportation Booking**: Facilitates booking through endpoints (e.g., `POST /api/bookings/hotels`, `POST /api/bookings/transportation`), offering price comparisons, detailed descriptions, and user reviews to ensure budget-friendly and convenient choices.
+- **Tour Guide Management System**: Supports tour guide applications with admin endpoints for approval (`POST /api/admin/tourguide-applications/{id}/approve`), rejection (`POST /api/admin/tourguide-applications/{id}/reject`), and revocation (`POST /api/admin/tourguides/{id}/revoke`), ensuring high-quality, trustworthy guides.
+- **Real-Time Updates**: Provides live updates on weather, local events, and travel advisories, integrated via external APIs and cached in the database for performance (`GET /api/updates/weather`, `GET /api/updates/events`).
+- **Secure Authentication**: Utilizes ASP.NET Identity with JWT for secure access to protected endpoints, supporting user and admin roles (`POST /api/auth/login`).
 - **Scalable Architecture**: Leverages Entity Framework Core for efficient database operations and a modular design to handle thousands of users and diverse datasets with high performance.
-- **Comprehensive Data Management**: Manages complex data for restaurants, hotels, places, reviews, meals, rooms, and activities, ensuring seamless integration with front-end clients.
-- **RESTful API Design**: Offers well-documented RESTful endpoints for recommendations, user management, and admin operations, ensuring compatibility with mobile and web clients.
+- **Comprehensive Data Management**: Manages complex data for restaurants, hotels, places, reviews, meals, rooms, activities, and tour guides, ensuring seamless integration with the Flutter app and React front-end.
+- **RESTful API Design**: Offers well-documented RESTful endpoints for recommendations, bookings, user management, and admin operations, ensuring compatibility with mobile and web clients.
 
 ## Technologies
 - **Framework**: .NET Core 8.0 (C#) for API development
@@ -37,6 +39,7 @@ The R7alah Backend provides a comprehensive set of features to support the trave
   - System.Net.Http.Json
 - **Version Control**: Git
 - **Configuration**: appsettings.json for environment-specific settings
+- **Real-Time Features**: SignalR (in `Hubs` for potential real-time updates)
 
 ## Project Structure
 ```
@@ -47,7 +50,7 @@ R7alaAPI-main/
 ├── DTO/                          # Data transfer objects for API requests/responses
 ├── Data/                         # Database context (ApplicationDBContext)
 ├── Helpers/                      # Utility classes and helper methods
-├── Hubs/                         # SignalR hubs (if applicable, e.g., for real-time features)
+├── Hubs/                         # SignalR hubs for real-time features (e.g., live updates)
 ├── Migrations/                   # Entity Framework migrations
 ├── Models/                       # Data models (e.g., Restaurant, Hotel, TourGuide, Favorite)
 ├── Properties/                   # Project properties (e.g., launchSettings.json)
@@ -125,13 +128,21 @@ R7alaAPI-main/
     - `GET/POST /api/recommendations/hotels` - Fetches hotel recommendations
     - `GET/POST /api/recommendations/places` - Fetches tourist attraction recommendations
     - `POST /api/recommendations/recommend` - Fetches combined recommendations
+  - **Bookings**:
+    - `POST /api/bookings/hotels` - Books a hotel
+    - `POST /api/bookings/transportation` - Books transportation
+  - **Reviews**:
+    - `POST /api/reviews` - Submits a user review
+    - `GET /api/reviews/{type}/{id}` - Fetches reviews for a specific entity
   - **Admin Operations**:
     - `GET /api/admin/tourguide-applications` - Lists tour guide applications
     - `POST /api/admin/tourguide-applications/{id}/approve` - Approves an application
     - `POST /api/admin/tourguide-applications/{id}/reject` - Rejects an application
     - `POST /api/admin/tourguides/{id}/revoke` - Revokes tour guide status
     - `POST /api/admin/assign-admin` - Assigns admin role to a user
-  - Requires JWT authentication for protected routes. Obtain a token via `POST /api/auth/login`.
+  - **Authentication**:
+    - `POST /api/auth/login` - Authenticates users and returns a JWT token
+  - Requires JWT authentication for protected routes (use `Authorization: Bearer <token>`).
 
 - **Testing**:
   - Use Postman or curl to test endpoints:
@@ -166,4 +177,7 @@ Contributions to enhance the R7alah Backend are welcome! To contribute:
 Please follow .NET coding standards (e.g., PascalCase for public members) and include tests for new features.
 
 ## Contributors
-- **Mohamed Mostafa** ([LinkedIn](https://www.linkedin.com/in/mohamedmostafa21/)) - Sole developer of the backend, responsible for API design, implementation, database management, and Flask integration
+- **Mohamed Mostafa** ([LinkedIn](https://www.linkedin.com/in/mohamedmostafa21/)) - Sole developer of the backend, responsible for API design, implementation, database management, Flask integration, and feature development (recommendations, bookings, tour guide management)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
