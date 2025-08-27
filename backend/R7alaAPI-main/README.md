@@ -1,7 +1,7 @@
-# R7alah Backend - Travel Recommendation API
+# R7alah Backend - Travel Platform API
 
 
-The R7alah Backend is the core API for the R7alah travel recommendation platform, developed as a graduation project at [Your University Name]. Built entirely by Mohamed Mostafa using .NET Core and C#, this robust and scalable API powers personalized recommendations for restaurants, hotels, tourist attractions, and tour guide management, integrating seamlessly with a Flask-based machine learning engine. The backend serves as the backbone for the R7alah Flutter mobile app and React front-end website, enabling a seamless and user-centric travel planning experience.
+The R7alah Backend is the core API for the R7alah travel platform, developed as a graduation project at Assiut University. Built entirely by Mohamed Mostafa using .NET Core and C#, this robust and scalable API powers personalized recommendations for restaurants, hotels, tourist attractions, and tour guide management, integrating seamlessly with a Flask-based machine learning engine. The backend serves as the backbone for the R7alah Flutter mobile app and React front-end website, enabling a seamless and user-centric travel planning experience.
 
 ## Table of Contents
 - [Features](#features)
